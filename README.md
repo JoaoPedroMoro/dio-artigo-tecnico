@@ -1,2 +1,3 @@
-# dio-artigo-tecnico
-Criação de um artigo técnico com ChatGPT e Lexica.art
+# Título
+Dominando Python: Dicas e Truques para Aperfeiçoar suas Habilidades de Codificação
+
